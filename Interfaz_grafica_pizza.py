@@ -1,4 +1,4 @@
-#Tarea 10
+
 #Crear una interfaz gráfica por medio de la cuál obtengan: 
     #a) Nombre completo
     #b) CURP 
